@@ -1,0 +1,25 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+.primero{
+	width: 400px;
+	height: 400px;
+	background-color: #044998;
+	position: relative;	
+}
+.segundo{
+	width: 200px;
+	height: 200px;
+	background-color: #297A08;	
+	position: absolute;
+	top: 90px;
+	left: 90px;
+}
+.tercero{
+	width: 90px;
+	height: 90px;
+	background-color: #000000;
+	position: absolute;
+	top: 0px;	
+}

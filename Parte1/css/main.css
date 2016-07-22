@@ -1,0 +1,26 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+.primero{
+	width: 400px;
+	height: 400px;
+	background-color: #FC6E1B;
+	position: static;	
+}
+.segundo{
+	width: 200px;
+	height: 200px;
+	background-color: #44accf;	
+	position: absolute;
+	top: 90px;
+	left: 90px;
+}
+.tercero{
+	width: 100px;
+	height: 100px;
+	background-color: #7603A4;
+	position: absolute;
+	top: 90px;
+	left: 90px;
+}
